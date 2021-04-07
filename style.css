@@ -344,7 +344,7 @@ body {
 
 .footer > img {
     width: 35px;
-    left: 85vh;
+    left: 530px;
     position: absolute;
     filter: grayscale(2);
 }
